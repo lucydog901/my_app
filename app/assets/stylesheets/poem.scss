@@ -1,3 +1,35 @@
 // Place all the styles related to the poem controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  background-color: #ffffe6;
+}
+h1{
+  color: #555B5D;
+  font-family: verdana;
+  font-size: 250%;
+  margin-left: 30%;
+  text-shadow: 1px 1px 3px #28572f
+}
+h2{
+  color: #555B5D;
+  font-family: verdana;
+  font-size: 180%;
+  margin-left: 30%;
+}
+p  {
+  color: #14100f;
+  font-family: courier;
+  font-size: 160%;
+  margin-left: 30%;
+}
+
+body {
+background-color: #8aed79;
+}
+
+img.image {
+  border-radius: 8px;
+  margin-left: 30%;
+}
